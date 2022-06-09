@@ -8,6 +8,8 @@
 
 🤔 I’m looking for an internship to kickstart my career in the Data Science industry.
 
+🧘🏻‍♀️ I'm passionate about volleyball 🏐, photography 📸,  music 🎧 and books 📚
+
 
 <!--
 **andreagalvanr/andreagalvanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
