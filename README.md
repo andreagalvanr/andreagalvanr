@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+
 ### Hi there! 👋 I'm Andrea
 
 #### I'm an aspiring Data Scientist with a passion for understanding the world through data.
@@ -19,13 +23,11 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>&nbsp;
+
 </div>
 
 
