@@ -8,9 +8,18 @@
 
 #### I'm an aspiring Data Scientist with a passion for understanding the world through data.
 
+---
+### Get in contact:
+📬 andreagalvanr@gmail.com
+📞 +34 679 52 33 39
+🔗 https://www.linkedin.com/in/andrea-galvan-b26362162/
+
+---
+### If you want to know me:
+
 🔭 I’m currently working on my Final Project about NFTs.
 
-🌱 I’m currently learning about Machine Learning Algorithms and the basics of Data Analytics in the Master in Big Data and AI Solutions at Barcelona Technology School.
+🌱 I’m currently learning about Machine Learning Algorithms and the basics of Data Analytics in the MSc in Big Data and AI Solutions at Barcelona Technology School.
 
 🤔 I’m looking for an internship to kickstart my career in the Data Science industry.
 
